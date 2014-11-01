@@ -1,0 +1,38 @@
+#homepage-hero {
+    height:500px;
+    background: rgb(147, 147, 229);
+    padding-top:75px;
+}
+
+#homepage-hero h1 {
+    color: rgb(243, 243, 243);
+}
+
+#homepage-hero h3 {
+    color: rgb(243, 243, 243);
+    padding-bottom: 20px;
+}
+
+#homepage-hero a.button {
+    background: #333333
+}
+
+.sep {
+    background: rgb(98, 98, 178);
+    height:60px;
+}
+
+#install {
+    padding: 50px 0px 50px 0px;
+}
+
+#script.code-container {
+    height: 100px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    resize: none;
+}
+
+#how-to-use {
+
+}
