@@ -27,7 +27,7 @@
 }
 
 #script.code-container {
-    height: 100px;
+    height: 125px;
     overflow-x: scroll;
     overflow-y: hidden;
     resize: none;
